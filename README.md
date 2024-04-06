@@ -3,6 +3,19 @@ Hello everyone, my name is Sarut. Here is my portfolio for Software Tester.
 I'd like to present you guys that my work just begin in Software Tester or Qa and
 I appreciate it that you guys come to see my work. Can see my work below this.
 
+# What skill I can do ?
+* Manual Testing - Testing with Manual test (studying in Automate test)
+    *  Exploratory Testing - Test without planing system
+    *  Basic API Test - know how to check that api can work or not in postman
+    *  Exel - use exel (Speadsheet) for work
+    *  Trello - to build or end the task and communicate task with teammate
+    *  Jira - note the bug and important info of bugs
+    *  Test Documentation
+        - Test Plaining
+        - Test Case
+        - Test Progress Report
+        - Test Summary Report
+
 # My Portfolio
 
 The Ecommerce Demo Website name "Luma"
