@@ -1,3 +1,8 @@
+# About Me
+Hello everyone, my name is Sarut. Here is my portfolio for Software Tester.
+I'd like to present you guys that my work just begin in Software Tester or Qa and
+I appreciate it that you guys come to see my work. Can see my work below this.
+
 # MyPortfolio
 
 The Ecommerce Demo Website name "Luma"
