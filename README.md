@@ -4,19 +4,28 @@ I'd like to present you guys that my work just begin in Software Tester or Qa an
 I appreciate it that you guys come to see my work. Can see my work below this.
 
 # What skill I can do ?
-* Manual Testing - Testing with Manual test (studying in Automate test)
-    *  Exploratory Testing - Test without planing system
-    *  Basic API Test - know how to check that api can work or not in postman
-    *  Exel - use exel (Speadsheet) for work
-    *  Trello - to build or end the task and communicate task with teammate
-    *  Jira - note the bug and important info of bugs
-    *  Test Documentation
+* Manual Testing - Testing with Manual test
+   *  Test Documentation
         - Test Plaining
         - Test Case
         - Test Progress Report
         - Test Summary Report
+*  Exploratory Testing - Test without planing system
+*  Basic Automate Testing - test with cypress
+*  Basic API Test - know how to check that api can work or not with postman
+*  Excel - use excel (Spreadsheet) for work
+*  Trello - to build or end the task and communicate task with teammate
+
 
 # My Portfolio
+
+The Manage Shopping Online Website (test case)
+* All Product - https://docs.google.com/spreadsheets/d/13khVUGVTXLh1-j5wH1Ptd1TuVDWlfInD/edit?usp=drive_link&ouid=105526995779300520226&rtpof=true&sd=true
+* Product Stock - https://docs.google.com/spreadsheets/d/1ZSiVK2Vm9sNWjUo5B7C8MYPFXl5nRJ7x/edit?usp=sharing&ouid=105526995779300520226&rtpof=true&sd=true
+* Create Product - https://docs.google.com/spreadsheets/d/1zStAKD5TejU4Faa7hIXERgAAFD6KQHaP/edit?usp=sharing&ouid=105526995779300520226&rtpof=true&sd=true
+* Create Order - https://docs.google.com/spreadsheets/d/1gHvryaKR8NrmsHafub86xfKrStQk5Ol-/edit?usp=sharing&ouid=105526995779300520226&rtpof=true&sd=true
+* Calculator - https://docs.google.com/spreadsheets/d/12NQnga6l2f9BQAXBB9x1E4LZUW6qZM3v/edit?usp=sharing&ouid=105526995779300520226&rtpof=true&sd=true
+* Car Booking - https://docs.google.com/spreadsheets/d/1cVEWInFpxgDXHl28ZoFrrzFZ8UM53W9u/edit?usp=sharing&ouid=105526995779300520226&rtpof=true&sd=true
 
 The Ecommerce Demo Website name "Luma"
 * Test Planing - https://docs.google.com/document/d/1o_yb_MMPxwbWTls7RyENK3PD5G4KWKs6hUV_PS1On5Y/edit?usp=sharing
