@@ -43,5 +43,5 @@ This is My Automate Test about Create and Delete product on video
 - https://drive.google.com/file/d/1PuHMIG1QlpnrAxdXAEs-buifDBdfSc2h/view?usp=sharing
 
 # My Resume (CV)
-* Here is my Resume (CV) - https://drive.google.com/file/d/1anBeFQZ6064hF_suhIU3iGkhV4V_J_45/view?usp=sharing
+* Here is my Resume (CV) - https://drive.google.com/file/d/1CK9MZCYA3uYIZqot3GRUgZdGla5-MtTN/view?usp=sharing
 
